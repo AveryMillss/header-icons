@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   color: white;
+  font-family: Merriweather, serif;
 }
 
 *, *::before, *::after {
@@ -56,4 +57,12 @@ a {
   font-size: 1.125rem;
   padding: .4em 0;
   border: 1px solid #a63f38;
+}
+
+img, h1 {
+  align-items: center;
+}
+
+li:hover {
+  background-color: #a63f38;
 }
