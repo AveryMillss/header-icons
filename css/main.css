@@ -63,6 +63,6 @@ img, h1 {
   align-items: center;
 }
 
-li:hover {
+a:hover {
   background-color: #a63f38;
 }
